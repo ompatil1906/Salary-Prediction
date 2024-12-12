@@ -9,4 +9,8 @@ Data preprocessing and visualization.
 Machine learning model training.
 Salary prediction based on the trained model.
 
-THANK YOU!
+How to Run:
+1)Open Jupyter Nootebook -> Run all the cells to train the model and make predictions. (ALL STEPS OF ANALYSIS & PREDICTION.📈) 
+2)Open Terminal -> run code : "streamlit run app.py" -> Predict Salary! 💸
+
+THANK YOU!😄
